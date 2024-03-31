@@ -1,4 +1,6 @@
-[
+ {
+  "posts" :
+  [
     {
       "id": 1,
       "image": "https://d7hftxdivxxvm.cloudfront.net/?height=297&quality=80&resize_to=fill&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FKz69NyBpptwCjP5l_cVPwg%2Fmain.jpg&width=445",
@@ -120,4 +122,4 @@
       "theme": "Cityscape"
     }
   ]
-  
+}
